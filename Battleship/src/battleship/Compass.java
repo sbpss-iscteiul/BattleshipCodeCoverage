@@ -11,7 +11,7 @@ public enum Compass {
 	NORTH ('n'), 
 	SOUTH ('s'), 
 	EAST ('e'),
-	WEST ('o');
+	WEST ('o'), 
 	
 	private final char c;
 	
