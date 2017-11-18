@@ -59,6 +59,7 @@ public class Main {
 	 * and indicates whether the ship occupies each one of such positions or not
 	 */
 	public static void taskA() {
+		System.out.println("Push me!");
 		Scanner in = new Scanner (System.in);
 		while (in.hasNext()) {
 			Ship s = readShip(in);
