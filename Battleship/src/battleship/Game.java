@@ -18,10 +18,6 @@ public class Game implements IGame {
 	private int countRepeatedShots;
 	private int countHits;
 	private int countSinks;
-	private int banana;
-	private int barquito;
-	private int cenas;
-
 	/**
 	 * 
 	 */
