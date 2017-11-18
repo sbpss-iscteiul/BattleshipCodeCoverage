@@ -35,6 +35,7 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		System.out.println("Tested by Mohammad");
 		System.out.println("***  Battleship  ***");
 		try {
 			
