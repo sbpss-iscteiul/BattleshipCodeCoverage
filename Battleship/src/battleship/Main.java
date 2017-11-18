@@ -86,6 +86,7 @@ public class Main {
 			command = in.next();
 		}
 		System.out.println("Bons ventos!");
+		System.out.println("Istp é apenas um teste");
 	}
 	
 	/**
