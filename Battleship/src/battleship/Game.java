@@ -18,6 +18,7 @@ public class Game implements IGame {
 	private int countRepeatedShots;
 	private int countHits;
 	private int countSinks;
+	private int nova_variavel;
 	/**
 	 * 
 	 */

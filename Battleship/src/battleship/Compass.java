@@ -13,6 +13,7 @@ public enum Compass {
 	EAST ('e'),
 	WEST ('o'), 
 	
+	private final char c;
 	
 	Compass(char c) {
 		this.c = c;
